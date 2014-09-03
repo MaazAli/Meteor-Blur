@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Wrapper for Blur.js, a jQuery plugin that produces psuedo-transparent blurred elements",
   version: "0.0.1",
-  git: "https://github.com/MaazAli/Meteor-Blur.git"
+  git: " \* Fill me in! *\ "
 });
 
 Package.onUse(function(api) {
